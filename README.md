@@ -1,5 +1,7 @@
-Task Manager App
+Task Manager App 
+
 A simple task manager web app I built with Flask. You can add tasks, edit them, and delete them when you're done.
+
 What it does
 
 Add new tasks
@@ -19,7 +21,7 @@ How to run it locally
 
 Clone this repo
 git clone https://github.com/ethnxie/task-manager.git
-cd task-manager-flask
+cd task-manager
 
 Install Python dependencies
 pip install -r requirements.txt
