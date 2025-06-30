@@ -18,7 +18,7 @@ Deployed on Heroku
 How to run it locally
 
 Clone this repo
-git clone https://github.com/ethnxie/task-manager-flask.git
+git clone https://github.com/ethnxie/task-manager.git
 cd task-manager-flask
 
 Install Python dependencies
